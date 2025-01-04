@@ -17,7 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Domain\Contracts\" />
     <Folder Include="Infraestructure\" />
     <Folder Include="Exceptions\" />
     <Folder Include="Services\" />
